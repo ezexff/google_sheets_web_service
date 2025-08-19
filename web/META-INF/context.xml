@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Context antiJARLocking="true" path="">
+  <Resource auth="Container" driverClassName="oracle.jdbc.OracleDriver" factory="oracle.jdbc.pool.OracleDataSourceFactory" logAbandoned="true" maxActive="100" maxIdle="30" maxWait="10000" name="jdbc/oracle11g" password="zxc" removeAbandoned="true" removeAbandonedTimeout="60" type="oracle.jdbc.pool.OracleDataSource" url="jdbc:oracle:thin:@//localhost:1521/xe" userName="system"/>
+</Context>
